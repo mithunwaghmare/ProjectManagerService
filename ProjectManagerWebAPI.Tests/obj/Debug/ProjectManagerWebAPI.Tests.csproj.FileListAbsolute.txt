@@ -1,0 +1,160 @@
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\NBench.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.Moq.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.Moq.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ApplicationInsights.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.Tests.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.Moq.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\NBench.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerDataLayer.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerEntities.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerServiceLayer.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\ProjectManagerWebAPI.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\EntityFramework.Testing.Moq.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Moq.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\nunit.framework.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerWebAPI.Tests\obj\Debug\ProjectManagerWebAPI.Tests.pdb

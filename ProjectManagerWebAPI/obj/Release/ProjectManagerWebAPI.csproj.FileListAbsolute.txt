@@ -1,0 +1,108 @@
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ApplicationInsights.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\csc.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\vbc.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.dll.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Web.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Newtonsoft.Json.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerEntities.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerServiceLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Cors.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.Cors.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerDataLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerEntities.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerServiceLayer.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Web.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.Cors.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\Newtonsoft.Json.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerDataLayer.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.csprojResolveAssemblyReference.cache
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ApplicationInsights.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\csc.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\vbc.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.dll.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerWebAPI.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Web.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Newtonsoft.Json.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerEntities.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerServiceLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Cors.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.Cors.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerDataLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerEntities.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerServiceLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.Web.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.Cors.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\Newtonsoft.Json.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\bin\ProjectManagerDataLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.csprojResolveAssemblyReference.cache
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerWebAPI\obj\Release\ProjectManagerWebAPI.pdb

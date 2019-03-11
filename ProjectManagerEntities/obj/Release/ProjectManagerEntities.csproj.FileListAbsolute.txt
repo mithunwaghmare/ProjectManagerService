@@ -1,0 +1,20 @@
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.dll.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.SqlServer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.SqlServer.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.csprojResolveAssemblyReference.cache
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.dll.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\ProjectManagerEntities.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.SqlServer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\bin\Release\EntityFramework.SqlServer.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.csprojResolveAssemblyReference.cache
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerEntities\obj\Release\ProjectManagerEntities.pdb

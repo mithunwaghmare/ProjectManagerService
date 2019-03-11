@@ -1,0 +1,39 @@
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll.config
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.pdb
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.csprojResolveAssemblyReference.cache
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD-Final Certification\Project Manager Service\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll.config
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.pdb
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.csprojResolveAssemblyReference.cache
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.dll
+C:\Anil\FSD\FinalAssessment\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerDataLayer.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\ProjectManagerEntities.dll.config
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.csprojResolveAssemblyReference.cache
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.dll
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.pdb
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.Migrations.Initial.resources
+C:\Mithun\Reference\ProjectManagerSubmissionPkg\ProjectManagerService\ProjectManagerDataLayer\obj\Debug\ProjectManagerDataLayer.csproj.GenerateResource.Cache
